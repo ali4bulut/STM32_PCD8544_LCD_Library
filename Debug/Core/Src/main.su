@@ -1,0 +1,8 @@
+main.c:91:6:LCD_Init_MAIN	8	static
+main.c:109:5:main	24	static
+main.c:195:6:SystemClock_Config	88	static
+main.c:246:13:MX_SPI2_Init	8	static
+main.c:284:13:MX_USART2_UART_Init	8	static
+main.c:315:13:MX_DMA_Init	16	static
+main.c:333:13:MX_GPIO_Init	48	static
+main.c:389:6:Error_Handler	4	static,ignoring_inline_asm
